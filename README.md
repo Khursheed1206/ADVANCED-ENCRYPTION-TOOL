@@ -101,6 +101,12 @@ Encrypt backup files before saving them to external drives or cloud to ensure da
 
 ##*output:*##
 
+![Image](https://github.com/user-attachments/assets/0db82d26-c347-4451-8e3d-f03696edf024)
 
+![Image](https://github.com/user-attachments/assets/4a91d9a8-272d-4c1e-b0ba-73ad0b6dd042)
+
+![Image](https://github.com/user-attachments/assets/4b609b2e-272c-4a9b-b1f4-0d9d573acffb)
+
+![Image](https://github.com/user-attachments/assets/ea60474a-e2f3-4890-b5cc-c662f603506e)
 
 
